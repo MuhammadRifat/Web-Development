@@ -13,3 +13,10 @@ git push -u origin main
 git remote add origin https://github.com/MuhammadRifat/Project.git
 git branch -M main
 git push -u origin main
+
+
+Next changes input in Github:
+
+git add .
+git commit -m"Changes"
+git push
